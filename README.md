@@ -1,7 +1,7 @@
 # PaediatricPH
 
 ## Project Description
-This repository contains code to accompany the paper "Pre-operative echocardiography for risk stratification of children with idiopathic pulmonary arterial hypertension undergoing general anesthesia for cardiac catheterization" submitted to Pediatric Anesthesia journal on 24th February 2023.
+This repository contains code to accompany the paper "Pre-operative echocardiography for predicting perioperative cardiorespiratory adverse events in children with idiopathic pulmonary arterial hypertension undergoing cardiac catheterization"
 
 Files included in this repository:
 ### Developing a Scoring System.R
