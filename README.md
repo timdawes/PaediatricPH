@@ -16,3 +16,6 @@ Installs and loads the relevant R packages. Defines functions which are then use
 Note: original data is not available due to privacy reasons. Code is provided to demonstrate analysis methods solely.
 
 For more details please contact Tim Dawes at Timothy.Dawes [at] gosh.nhs.uk
+
+## powercalculation.R
+Code to calculate necessary sample size to achieve 90% power, alpha = 0.05 based on effect size from Taylor et al, Risk of cardiac catheterization under anaesthesia in children with pulmonary hypertension. BJA, 2007.
